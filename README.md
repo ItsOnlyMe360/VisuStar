@@ -1,4 +1,4 @@
-# Universo de Partículas Interativo
+# VisuStar
 
 Um sistema de partículas 3D e nebulosa procedural fascinante e altamente personalizável, construído com React e Three.js. Esta aplicação permite aos usuários esculpir interativamente seus próprios visuais cósmicos únicos em tempo real.
 
