@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Particle Universe",
+  "description": "A React and Three.js application displaying an interactive field of particles with a procedural nebula background. Users can customize various visual and motion parameters, and enable audio reactivity.",
+  "requestFramePermissions": ["microphone"]
+}
