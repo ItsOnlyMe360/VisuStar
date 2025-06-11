@@ -3,7 +3,7 @@
 Um sistema de partículas 3D e nebulosa procedural fascinante e altamente personalizável, construído com React e Three.js. Esta aplicação permite aos usuários esculpir interativamente seus próprios visuais cósmicos únicos em tempo real.
 
 **(Opcional: Adicione um GIF ou Captura de Tela da aplicação aqui)**
-<!-- Exemplo: ![Demonstração do Universo de Partículas Interativo](link_para_seu_gif_ou_captura_de_tela.png) -->
+![Demo](https://c.feridinha.com/EyOTG.png)
 
 ## Funcionalidades
 
