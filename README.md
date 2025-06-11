@@ -62,7 +62,7 @@ Como esta é uma aplicação frontend, você precisa de um servidor HTTP simples
 
 1.  **Navegue até o diretório raiz do seu projeto no terminal:**
     ```bash
-    cd caminho/para/seu/universo-particulas-interativo
+    cd VisuStar
     ```
 
 2.  **Use um servidor HTTP simples.** Aqui estão algumas opções comuns:
