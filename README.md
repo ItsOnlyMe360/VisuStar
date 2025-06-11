@@ -109,6 +109,9 @@ A aplicação possui um painel de controle abrangente (alterne a visibilidade pr
 *   **Shaders (GLSL):** Vertex e fragment shaders customizados são cruciais para alcançar os efeitos visuais complexos para partículas e a nebulosa de forma eficiente.
 *   **Web Audio API & `getDisplayMedia`:** Quando a reatividade ao áudio está habilitada, a aplicação usa `navigator.mediaDevices.getDisplayMedia` para solicitar o compartilhamento de tela/aba (incluindo áudio). O fluxo de áudio é então processado usando a Web Audio API para analisar frequências e intensidades, que por sua vez influenciam os visuais das partículas (ex: tamanho).
 
+## Observações
+
+# Esse projeto foi criado usando Google AI Studio
 ---
 
 Sinta-se à vontade para explorar e experimentar com os controles para criar suas próprias cenas cósmicas deslumbrantes!
