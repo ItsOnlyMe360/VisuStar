@@ -31,9 +31,9 @@ Siga estas instruções para obter uma cópia local e executá-la.
 
 ### Executando
 
-   * Use ```npm run dev```
+   * Use ```npm install``` para instalar todas as dependências e ```npm run dev```
 
- Certifique-se de que instalou todas as dependências usando ```npm install``` enquanto executa o terminal dentro da pasta.
+OBS: se quiser que os dispositivos na sua rede local também possam acessar o site, use ```npm run dev -- --host 0.0.0.0```
 
 ## Visão Geral dos Controles
 
