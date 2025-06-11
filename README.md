@@ -41,8 +41,8 @@ Siga estas instruções para obter uma cópia local e executá-la.
 1.  **Clone o repositório (ou baixe os arquivos):**
     Se você tiver o projeto em um repositório git:
     ```bash
-    git clone <url-do-seu-repositorio>
-    cd <nome-do-repositorio>
+    git clone https://github.com/ItsOnlyMe360/VisuStar/
+    cd VisuStar
     ```
     Se você tiver apenas os arquivos soltos, crie um diretório principal para o projeto (ex: `universo-particulas-interativo`) e coloque os arquivos conforme descrito abaixo.
 
