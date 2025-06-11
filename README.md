@@ -33,7 +33,7 @@ Siga estas instruções para obter uma cópia local e executá-la.
 
 ### Pré-requisitos
 
-*   **Node.js e npm (ou yarn):** Embora o projeto use CDNs para as principais bibliotecas, Node.js e npm são úteis para servir os arquivos localmente. Você pode baixá-los em [nodejs.org](https://nodejs.org/).
+*   **Node.js e npm:** Você pode baixá-los em [nodejs.org](https://nodejs.org/).
 
 ### Instalação e Configuração
 
@@ -43,30 +43,10 @@ Siga estas instruções para obter uma cópia local e executá-la.
     git clone https://github.com/ItsOnlyMe360/VisuStar/
     cd VisuStar
     ```
-    Se você tiver apenas os arquivos soltos, crie um diretório principal para o projeto (ex: `universo-particulas-interativo`) e coloque os arquivos conforme descrito abaixo.
-
-2.  **Organize os arquivos do projeto:**
-    Garanta que a estrutura do seu projeto corresponda à descrita no início deste documento. Pontos chave:
-    *   `index.html` e `metadata.json` estão na raiz.
-    *   Uma pasta `src` contém todos os arquivos `.ts` e `.tsx`.
-    *   Seu ponto de entrada principal do React (originalmente `index.tsx`) deve estar em `src/main.tsx`.
-    *   `components/ControlsPanel.tsx` e `hooks/useParticleSystem.ts` estão em seus respectivos subdiretórios dentro de `src`.
-
-3.  **Sem `npm install` explícito para dependências CDN:**
-    O projeto está configurado para carregar React, React-DOM e Three.js diretamente de CDNs usando um "import map" no `index.html`. Nenhuma instalação local de `node_modules` é estritamente necessária para que essas bibliotecas principais executem o projeto como está.
 
 ### Executando a Aplicação
-
-Como esta é uma aplicação frontend, você precisa de um servidor HTTP simples para servir o arquivo `index.html` e seus assets corretamente.
-
-1.  **Navegue até o diretório raiz do seu projeto no terminal:**
-    ```bash
-    cd VisuStar
-    ```
-
-2.  **Use um servidor HTTP simples.** Aqui estão algumas opções comuns:
-
-    *   **Usando `npx serve` (requer Node.js):**
+                       
+    *   **Usando `npm run` (requer Node.js):**
         Esta é uma maneira direta se você tiver o Node.js instalado. `npx` executa o comando sem precisar instalar o `serve` globalmente.
         ```bash
         npx serve .
