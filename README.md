@@ -111,7 +111,5 @@ A aplicação possui um painel de controle abrangente (alterne a visibilidade pr
 
 ## Observações
 
-# Esse projeto foi criado usando Google AI Studio
+* Esse projeto foi criado usando Google AI Studio, sinta se livre pra usar como quiser.
 ---
-
-Sinta-se à vontade para explorar e experimentar com os controles para criar suas próprias cenas cósmicas deslumbrantes!
